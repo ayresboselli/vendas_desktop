@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ayres\\Documents\\Projetos\\Ayres\\Vendas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6F803B-3D44-40C3-9352-A1742027473F}|Vendas\\Vendas.csproj|c:\\users\\ayres\\documents\\projetos\\ayres\\vendas\\vendas\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6F803B-3D44-40C3-9352-A1742027473F}|Vendas\\Vendas.csproj|solutionrelative:vendas\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6F803B-3D44-40C3-9352-A1742027473F}|Vendas\\Vendas.csproj|c:\\users\\ayres\\documents\\projetos\\ayres\\vendas\\vendas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6F803B-3D44-40C3-9352-A1742027473F}|Vendas\\Vendas.csproj|solutionrelative:vendas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6F803B-3D44-40C3-9352-A1742027473F}|Vendas\\Vendas.csproj|c:\\users\\ayres\\documents\\projetos\\ayres\\vendas\\vendas\\views\\produtos\\produtoformview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6F803B-3D44-40C3-9352-A1742027473F}|Vendas\\Vendas.csproj|solutionrelative:vendas\\views\\produtos\\produtoformview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6F803B-3D44-40C3-9352-A1742027473F}|Vendas\\Vendas.csproj|c:\\users\\ayres\\documents\\projetos\\ayres\\vendas\\vendas\\views\\produtos\\produtosview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6F803B-3D44-40C3-9352-A1742027473F}|Vendas\\Vendas.csproj|solutionrelative:vendas\\views\\produtos\\produtosview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6F803B-3D44-40C3-9352-A1742027473F}|Vendas\\Vendas.csproj|c:\\users\\ayres\\documents\\projetos\\ayres\\vendas\\vendas\\views\\produtos\\produtosview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E6F803B-3D44-40C3-9352-A1742027473F}|Vendas\\Vendas.csproj|solutionrelative:vendas\\views\\produtos\\produtosview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6F803B-3D44-40C3-9352-A1742027473F}|Vendas\\Vendas.csproj|c:\\users\\ayres\\documents\\projetos\\ayres\\vendas\\vendas\\views\\produtos\\produtoformview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E6F803B-3D44-40C3-9352-A1742027473F}|Vendas\\Vendas.csproj|solutionrelative:vendas\\views\\produtos\\produtoformview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Principal.cs",
+              "DocumentMoniker": "C:\\Users\\Ayres\\Documents\\Projetos\\Ayres\\Vendas\\Vendas\\Principal.cs",
+              "RelativeDocumentMoniker": "Vendas\\Principal.cs",
+              "ToolTip": "C:\\Users\\Ayres\\Documents\\Projetos\\Ayres\\Vendas\\Vendas\\Principal.cs",
+              "RelativeToolTip": "Vendas\\Principal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T14:44:53.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ayres\\Documents\\Projetos\\Ayres\\Vendas\\Vendas\\Program.cs",
+              "RelativeDocumentMoniker": "Vendas\\Program.cs",
+              "ToolTip": "C:\\Users\\Ayres\\Documents\\Projetos\\Ayres\\Vendas\\Vendas\\Program.cs",
+              "RelativeToolTip": "Vendas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T14:44:44.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutosView.cs",
+              "DocumentMoniker": "C:\\Users\\Ayres\\Documents\\Projetos\\Ayres\\Vendas\\Vendas\\Views\\Produtos\\ProdutosView.cs",
+              "RelativeDocumentMoniker": "Vendas\\Views\\Produtos\\ProdutosView.cs",
+              "ToolTip": "C:\\Users\\Ayres\\Documents\\Projetos\\Ayres\\Vendas\\Vendas\\Views\\Produtos\\ProdutosView.cs",
+              "RelativeToolTip": "Vendas\\Views\\Produtos\\ProdutosView.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T14:42:33.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProdutosView.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Ayres\\Documents\\Projetos\\Ayres\\Vendas\\Vendas\\Views\\Produtos\\ProdutosView.cs",
+              "RelativeDocumentMoniker": "Vendas\\Views\\Produtos\\ProdutosView.cs",
+              "ToolTip": "C:\\Users\\Ayres\\Documents\\Projetos\\Ayres\\Vendas\\Vendas\\Views\\Produtos\\ProdutosView.cs [Projeto]",
+              "RelativeToolTip": "Vendas\\Views\\Produtos\\ProdutosView.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T14:42:31.108Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoFormView.cs",
+              "DocumentMoniker": "C:\\Users\\Ayres\\Documents\\Projetos\\Ayres\\Vendas\\Vendas\\Views\\Produtos\\ProdutoFormView.cs",
+              "RelativeDocumentMoniker": "Vendas\\Views\\Produtos\\ProdutoFormView.cs",
+              "ToolTip": "C:\\Users\\Ayres\\Documents\\Projetos\\Ayres\\Vendas\\Vendas\\Views\\Produtos\\ProdutoFormView.cs",
+              "RelativeToolTip": "Vendas\\Views\\Produtos\\ProdutoFormView.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAmwIoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T14:40:55.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProdutoFormView.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Ayres\\Documents\\Projetos\\Ayres\\Vendas\\Vendas\\Views\\Produtos\\ProdutoFormView.cs",
+              "RelativeDocumentMoniker": "Vendas\\Views\\Produtos\\ProdutoFormView.cs",
+              "ToolTip": "C:\\Users\\Ayres\\Documents\\Projetos\\Ayres\\Vendas\\Vendas\\Views\\Produtos\\ProdutoFormView.cs [Projeto]",
+              "RelativeToolTip": "Vendas\\Views\\Produtos\\ProdutoFormView.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T14:40:46.121Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
