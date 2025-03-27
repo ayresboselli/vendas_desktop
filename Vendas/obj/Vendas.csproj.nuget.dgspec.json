@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ayres\\Documents\\Projetos\\Ayres\\Vendas\\Vendas\\Vendas.csproj": {}
+    "C:\\Users\\Ayres\\Documents\\Projetos\\Ayres\\vendas_desktop\\Vendas\\Vendas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ayres\\Documents\\Projetos\\Ayres\\Vendas\\Vendas\\Vendas.csproj": {
+    "C:\\Users\\Ayres\\Documents\\Projetos\\Ayres\\vendas_desktop\\Vendas\\Vendas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ayres\\Documents\\Projetos\\Ayres\\Vendas\\Vendas\\Vendas.csproj",
+        "projectUniqueName": "C:\\Users\\Ayres\\Documents\\Projetos\\Ayres\\vendas_desktop\\Vendas\\Vendas.csproj",
         "projectName": "Vendas",
-        "projectPath": "C:\\Users\\Ayres\\Documents\\Projetos\\Ayres\\Vendas\\Vendas\\Vendas.csproj",
+        "projectPath": "C:\\Users\\Ayres\\Documents\\Projetos\\Ayres\\vendas_desktop\\Vendas\\Vendas.csproj",
         "packagesPath": "C:\\Users\\Ayres\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ayres\\Documents\\Projetos\\Ayres\\Vendas\\Vendas\\obj\\",
+        "outputPath": "C:\\Users\\Ayres\\Documents\\Projetos\\Ayres\\vendas_desktop\\Vendas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,6 +65,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.14, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",

@@ -1,5 +1,6 @@
-﻿using Vendas.Models.Produtos;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
+using Vendas.Models.Produtos;
+using Vendas.Models.Clientes;
 
 namespace Vendas
 {
@@ -8,6 +9,9 @@ namespace Vendas
         public DbSet<Marca> Marcas { get; set; }
         public DbSet<GrupoProduto> GrupoProdutos { get; set; }
         public DbSet<Produto> Produtos { get; set; }
+        public DbSet<GrupoCliente> GrupoClientes { get; set; }
+        public DbSet<Cliente> Clientes { get; set; }
+
 
         public DataContext() { }
 
@@ -39,6 +43,12 @@ namespace Vendas
 
             modelBuilder.Entity<GrupoProduto>()
                 .HasMany(e => e.Produtos)
+                .WithOne(e => e.Grupo)
+                .HasForeignKey(e => e.GrupoId)
+                .HasPrincipalKey(e => e.Id);
+
+            modelBuilder.Entity<GrupoCliente>()
+                .HasMany(e => e.Clientes)
                 .WithOne(e => e.Grupo)
                 .HasForeignKey(e => e.GrupoId)
                 .HasPrincipalKey(e => e.Id);

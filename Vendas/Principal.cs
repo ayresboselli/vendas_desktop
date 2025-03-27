@@ -1,4 +1,5 @@
 using Vendas.Views.Produtos;
+using Vendas.Views.Clientes;
 
 namespace Vendas
 {
@@ -13,6 +14,12 @@ namespace Vendas
         {
             var produtos = new ProdutosView();
             produtos.Show();
+        }
+
+        private void ClientesStripMenuItemClick(object sender, EventArgs e)
+        {
+            var clientes = new ClientesView();
+            clientes.Show();
         }
     }
 }
